@@ -3,6 +3,8 @@
 🎓 BTech – Artificial Intelligence & Machine Learning  
 📍 Bengaluru, India  
 
+Checkout my portfolio for more detail - [Portfolio](https://www.ananthadev.online/)
+
 I build practical AI systems that solve real-world problems.
 
 My focus areas include:
