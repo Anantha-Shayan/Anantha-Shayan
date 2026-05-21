@@ -1,80 +1,167 @@
-# Hi, I'm Anantha Shayan 👋
+<div align="center">
 
-🎓 BTech – Artificial Intelligence & Machine Learning  
-📍 Bengaluru, India  
+# Hi there! I'm Anantha Shayan
 
-Checkout my portfolio for more detail - [Portfolio](https://www.ananthadev.online/)
+### AI/ML • Backend Systems • Infrastructure
 
-I build practical AI systems that solve real-world problems.
+Building practical systems that combine backend engineering, cloud infrastructure, automation, and applied AI.
 
-My focus areas include:
-- Machine Learning
-- Retrieval Systems (Embeddings + Vector Databases)
-- AI Automation & Agents
-- ML Deployment
+[Portfolio](https://www.ananthadev.online/) •
+[LinkedIn](https://www.linkedin.com/in/anantha-shayan28022006) •
+[Medium](https://medium.com/@ananthashayan2802) •
+<a href="mailto:ananthashayan2802@outlook.com">Email</a>
 
-Currently exploring how AI systems move from **experiments to production**.
+![](https://komarev.com/ghpvc/?username=Anantha-Shayan&style=flat-square&color=blue)
 
----
-
-## 🔧 Tech Stack
-
-**Languages**
-- Python
-- SQL
-
-**Machine Learning**
-- Scikit-learn
-- PyTorch
-- Sentence Transformers
-
-**AI Systems**
-- FAISS
-- Vector Search
-- RAG pipelines
-
-**Backend**
-- FastAPI
-- Docker
-- GitHub Actions
-
-**Tools**
-- Git
-- Linux
+</div>
 
 ---
 
-## 🚀 Current Projects
+# About Me
 
-### AI Resume Matcher
-Semantic job-candidate matching using embeddings + FAISS.
+I enjoy building systems end-to-end — from backend and deployment workflows to monitoring infrastructure and applied AI systems.
 
-Features:
-- Resume parsing
-- Skill extraction
-- Vector similarity search
-- Candidate ranking
-- Recruiter dashboard
+My work spans:
+- Retrieval systems & semantic search
+- Recommendation engines
+- Backend Engineering
+- Cloud & Infrastructure
+- Observability & Monitoring
+- Automation Systems
+- Applied Machine Learning
 
----
+I regularly work with Linux environments, Dockerized applications, cloud deployments, CI/CD workflows, monitoring stacks, and scalable backend systems.
 
-## 📚 Currently Learning
-
-- Model deployment
-- Vector databases
-- Retrieval systems
-
----
-
-## 🌱 Interests
-
-- Building AI tools for real-world workflows
-- Automation
-- Self-hosted AI infrastructure
+Currently working as a **Founding Tech Lead** at an early-stage HealthTech startup, contributing across:
+- AI workflows
+- Backend systems
+- Infrastructure
+- Workflow automation
+- Technical architecture
 
 ---
 
-## 📫 Connect with me
+# Tech Stack
 
-LinkedIn  
-https://www.linkedin.com/in/anantha-shayan28022006
+## Languages & Core
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+---
+
+## Backend & Infrastructure
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+---
+
+## Databases & Systems
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
+
+---
+
+## AI / ML
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-0A66C2?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-3C3C3C?style=for-the-badge)
+
+---
+
+## Tools & Workflow
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+---
+
+# Featured Projects
+
+## AI Job Recommendation System
+
+Semantic job matching system built using embeddings and vector similarity search.
+
+### Highlights
+- Resume parsing pipeline
+- Semantic + keyword search experimentation
+- Skill gap analysis
+- FAISS-based retrieval system
+- Backend APIs for recommendation workflows
+
+---
+
+## SasyaSampada
+
+AI-powered agricultural assistant designed using Retrieval-Augmented Generation (RAG) workflows.
+
+### Highlights
+- Context-aware agricultural assistance
+- Knowledge retrieval pipeline
+- Embedding-based search
+- Low-resource deployment design
+
+---
+
+## E-Commerce Infrastructure System
+
+Production-style backend system focused on DBMS concepts, infrastructure, observability, and deployment workflows.
+
+### Highlights
+- Transaction-safe checkout workflows
+- RBAC-based access control
+- Database normalization and schema design
+- Dockerized deployment architecture
+- Grafana + Prometheus monitoring stack
+
+---
+
+# Currently Exploring
+
+- Scalable backend systems
+- Observability & monitoring
+- Infrastructure for AI applications
+- CI/CD workflows
+- Distributed systems
+- Self-hosted deployments
+
+---
+
+# GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Anantha-Shayan&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Anantha-Shayan&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anantha-Shayan&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+# Connect With Me
+
+- Portfolio → https://www.ananthadev.online/
+- LinkedIn → https://www.linkedin.com/in/anantha-shayan28022006
+- EMail → ananthashayan2802@outlook.com
+- Medium → https://medium.com/@ananthashayan2802
+
+```
