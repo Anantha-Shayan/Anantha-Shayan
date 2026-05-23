@@ -63,6 +63,7 @@ Currently working as a **Founding Tech Lead** at an early-stage HealthTech start
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ---
 
@@ -130,6 +131,7 @@ Production-style backend system focused on DBMS concepts, infrastructure, observ
 - Transaction-safe checkout workflows
 - RBAC-based access control
 - Database normalization and schema design
+- RabbitMQ to handle async email processing
 - Dockerized deployment architecture
 - Grafana + Prometheus monitoring stack
 
