@@ -32,7 +32,7 @@ My work spans:
 
 I regularly work with Linux environments, Dockerized applications, cloud deployments, CI/CD workflows, monitoring stacks, and scalable backend systems.
 
-Currently working as a **Founding Tech Lead** at an early-stage HealthTech startup, contributing across:
+Currently working as a **Founding Engineer** at an early-stage HealthTech startup, contributing across:
 - AI workflows
 - Backend systems
 - Infrastructure
