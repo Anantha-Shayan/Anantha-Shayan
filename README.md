@@ -6,7 +6,7 @@
 
 Building practical systems that combine backend engineering, cloud infrastructure, automation, and applied AI.
 
-[Portfolio](https://www.ananthadev.online/) •
+[Portfolio](https://ananthadev.online/) •
 [LinkedIn](https://www.linkedin.com/in/anantha-shayan28022006) •
 [Medium](https://medium.com/@ananthashayan2802) •
 <a href="mailto:ananthashayan2802@outlook.com">Email</a>
